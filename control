@@ -1,0 +1,9 @@
+Package: com.twizzyindy.runmyoore
+Name: RunMyOoredoo
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Run My Oredoo (Myanmar) on jailbroken devices
+Maintainer: TwizzyIndy
+Author: TwizzyIndy
+Section: Tweaks
